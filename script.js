@@ -17,8 +17,9 @@ $.ajax(
     $(".conference").append(conference + ' Conference');
     $(".venue").append(venue);
 
+
     $.ajax(
-      {url: `statsapi.web.nhl.com/api/v1/teams/3/roster`, method: "GET" }  
+      {url: "https://statsapi.web.nhl.com/api/v1/teams/3/roster", method: "GET"}  
     ).then(function(response) {
         console.log(response)
     });
