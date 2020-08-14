@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    color: ghostwhite;
+    border: solid 15px red;
+}
+
+.Hockey {
+    border: solid 15px red;
+    padding: 3rem;
+    margin: 25 px;
+    background-color: lightblue;
+    color: blue;
+}
