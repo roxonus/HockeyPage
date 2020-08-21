@@ -1,7 +1,7 @@
 body {
-    background-color: blue;
+    background-color: #034072;
     color: ghostwhite;
-    border: solid 15px red;
+    
 }
 
 .Hockey {
@@ -10,4 +10,22 @@ body {
     margin: 25 px;
     background-color: lightblue;
     color: blue;
+}
+
+.navbar {
+    background-color: #c6e0f5;
+    color: black;
+    
+    
+}
+
+.header {
+    background-color: #308570;
+    padding-top: 3rem;
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-bottom: 3rem;
 }
